@@ -35,4 +35,10 @@ public class CategoriesAnalyst {
     public Map<String, MaxCategory> getCurrentAnalytics() {
         return currentAnalytics;
     }
+
+    public Map<String, Integer> getMapToAnalysis() {
+        return mapToAnalysis;
+    }
+
+
 }
