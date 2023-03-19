@@ -39,6 +39,4 @@ public class CategoriesAnalyst {
     public Map<String, Integer> getMapToAnalysis() {
         return mapToAnalysis;
     }
-
-
 }
